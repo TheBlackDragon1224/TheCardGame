@@ -497,8 +497,15 @@ ctx.drawImage(images.Intlv2, 170*scaleX, 510*scaleY, 110*scaleX, 110*scaleY);
 ctx.drawImage(images.Intlv3, 310*scaleX, 510*scaleY, 110*scaleX, 110*scaleY);
 ctx.drawImage(images.Intlv4, 450*scaleX, 510*scaleY, 110*scaleX, 110*scaleY);
 
-ctx.drawImage(images.ActionCompleted, 50*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
-ctx.drawImage(images.ActionNotCompleted, 300*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
+    buttons.forEach(button => {
+        if(button.group === "Resolve" && button.visible()){
+            ctx.drawImage(images.ActionCompleted, 50*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
+            ctx.drawImage(images.ActionNotCompleted, 300*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
+        }
+    });
+
+//ctx.drawImage(images.ActionCompleted, 50*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
+//ctx.drawImage(images.ActionNotCompleted, 300*scaleX, 1170*scaleY, 230*scaleX, 100*scaleY);
 
 // unselected genders
 ctx.drawImage(images.MaleUnselected, 61*scaleX, 221*scaleY, 79*scaleX, 136*scaleY);
