@@ -188,8 +188,8 @@
     },
     {
         "id": 18,
-        "playerAction": "Trace shapes or letters on your partners back using your fingernail",
-        "partnerAction": "Guess the shape",
+        "playerAction": "trace shapes or letters on your partners back using your fingernail",
+        "partnerAction": "guess the shape",
         "points": 2,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -199,7 +199,7 @@
     },
     {
         "id": 19,
-        "playerAction": "Take off your partners shirt and rub their back and neck",
+        "playerAction": "take off your partners shirt and rub their back and neck",
         "partnerAction": "none",
         "points": 3,
         "playerGender": "N/A",
@@ -210,7 +210,7 @@
     },
     {
         "id": 20,
-        "playerAction": "Undress your partner and massage their whole back-side using lotion",
+        "playerAction": "undress your partner and massage their whole back-side using lotion",
         "partnerAction": "relax",
         "points": 4,
         "playerGender": "N/A",
@@ -221,7 +221,7 @@
     },
     {
         "id": 21,
-        "playerAction": "Whisper dirty things into your partner's ear while playing with their hair",
+        "playerAction": "whisper dirty things into your partner's ear while playing with their hair",
         "partnerAction": "none",
         "points": 3,
         "playerGender": "N/A",
@@ -232,7 +232,7 @@
     },
     {
         "id": 22,
-        "playerAction": "Softly suck on your partner's neck",
+        "playerAction": "softly suck on your partner's neck",
         "partnerAction": "none",
         "points": 3,
         "playerGender": "N/A",
@@ -243,7 +243,7 @@
     },
     {
         "id": 23,
-        "playerAction": "Suck on your partner's earlobes",
+        "playerAction": "suck on your partner's earlobes",
         "partnerAction": "none",
         "points": 2,
         "playerGender": "N/A",
@@ -254,7 +254,7 @@
     },
     {
         "id": 24,
-        "playerAction": "Lick your partner's neck starting from their shirt-line and working up to their lips ending with a kiss",
+        "playerAction": "lick your partner's neck starting from their shirt-line and working up to their lips ending with a kiss",
         "partnerAction": "none",
         "points": 3,
         "playerGender": "N/A",
@@ -265,7 +265,7 @@
     },
     {
         "id": 25,
-        "playerAction": "Blindfold your partner for the rest of the game (blindfold may be removed during their turn to read cards and then must be re-applied before their next action)",
+        "playerAction": "blindfold your partner for the rest of the game (blindfold may be removed during their turn to read cards and then must be re-applied before their next action)",
         "partnerAction": "none",
         "points": 3,
         "playerGender": "N/A",
@@ -276,7 +276,7 @@
     },
     {
         "id": 26,
-        "playerAction": "Put headphones on your partner for the rest of the game and control what they hear",
+        "playerAction": "put headphones on your partner for the rest of the game and control what they hear",
         "partnerAction": "none",
         "points": 2,
         "playerGender": "N/A",
@@ -287,7 +287,7 @@
     },
     {
         "id": 27,
-        "playerAction": "Gently graze your hand across your partner's crotch",
+        "playerAction": "gently graze your hand across your partner's crotch",
         "partnerAction": "none",
         "points": 4,
         "playerGender": "N/A",
@@ -298,7 +298,7 @@
     },
     {
         "id": 28,
-        "playerAction": "Gently grope your partner's brests",
+        "playerAction": "gently grope your partner's brests",
         "partnerAction": "none",
         "points": 4,
         "playerGender": "N/A",
@@ -309,7 +309,7 @@
     },
     {
         "id": 29,
-        "playerAction": "Pinch your partner's nipples",
+        "playerAction": "pinch your partner's nipples",
         "partnerAction": "none",
         "points": 4,
         "playerGender": "N/A",
@@ -320,8 +320,8 @@
     },
     {
         "id": 30,
-        "playerAction": "Tickle your partner's tickelish spots",
-        "partnerAction": "Can't squirm or stop you",
+        "playerAction": "tickle your partner's tickelish spots",
+        "partnerAction": "can't squirm or stop you",
         "points": 5,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -331,8 +331,8 @@
     },
     {
         "id": 31,
-        "playerAction": "Massage your partners feet",
-        "partnerAction": "Cant squirm",
+        "playerAction": "massage your partners feet",
+        "partnerAction": "cant squirm",
         "points": 3,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -342,7 +342,7 @@
     },
     {
         "id": 32,
-        "playerAction": "Suck on and lick your partner's boobs",
+        "playerAction": "suck on and lick your partner's boobs",
         "partnerAction": "none",
         "points": 5,
         "playerGender": "N/A",
@@ -353,8 +353,8 @@
     },
     {
         "id": 33,
-        "playerAction": "Lick your partner's feet",
-        "partnerAction": "Can't move",
+        "playerAction": "lick your partner's feet",
+        "partnerAction": "can't move",
         "points": 6,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -364,8 +364,8 @@
     },
     {
         "id": 34,
-        "playerAction": "Suck on your partner's toes",
-        "partnerAction": "Can't move",
+        "playerAction": "suck on your partner's toes",
+        "partnerAction": "can't move",
         "points": 6,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -375,7 +375,7 @@
     },
     {
         "id": 35,
-        "playerAction": "Tie your parnter's hands together for the rest of the game",
+        "playerAction": "tie your parnter's hands together for the rest of the game",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -386,7 +386,7 @@
     },
     {
         "id": 36,
-        "playerAction": "Tie your parnter's ankles together for the rest of the game",
+        "playerAction": "tie your parnter's ankles together for the rest of the game",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -397,8 +397,8 @@
     },
     {
         "id": 37,
-        "playerAction": "Lick your Partner's nipples",
-        "partnerAction": "Plays with your hair",
+        "playerAction": "lick your Partner's nipples",
+        "partnerAction": "plays with your hair",
         "points": 6,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -408,8 +408,8 @@
     },
     {
         "id": 38,
-        "playerAction": "Make out with your partner using your tongue",
-        "partnerAction": "Grabs and pulls you in",
+        "playerAction": "make out with your partner using your tongue",
+        "partnerAction": "grabs and pulls you in",
         "points": 5,
         "playerGender": "N/A",
         "partnerGender": "N/A",
@@ -419,7 +419,7 @@
     },
     {
         "id": 39,
-        "playerAction": "Rub your partner's penis shaft (no stroking)",
+        "playerAction": "rub your partner's penis shaft (no stroking)",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -430,7 +430,7 @@
     },
     {
         "id": 40,
-        "playerAction": "Rub your partner's vaginal opening but don\u2019t go inside",
+        "playerAction": "rub your partner's vaginal opening but don\u2019t go inside",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -441,7 +441,7 @@
     },
     {
         "id": 41,
-        "playerAction": "Finger your partner's vagina",
+        "playerAction": "finger your partner's vagina",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -452,7 +452,7 @@
     },
     {
         "id": 42,
-        "playerAction": "Stroke your partners penis and lick the precum off the tip",
+        "playerAction": "stroke your partners penis and lick the precum off the tip",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -463,7 +463,7 @@
     },
     {
         "id": 43,
-        "playerAction": "Lick your parnter's penis ",
+        "playerAction": "lick your parnter's penis ",
         "partnerAction": "none",
         "points": 7,
         "playerGender": "N/A",
@@ -474,7 +474,7 @@
     },
     {
         "id": 44,
-        "playerAction": "Suck on your partner's penis head while licking it's underside",
+        "playerAction": "suck on your partner's penis head while licking it's underside",
         "partnerAction": "none",
         "points": 7,
         "playerGender": "N/A",
@@ -485,7 +485,7 @@
     },
     {
         "id": 45,
-        "playerAction": "Lick your partner's vagina",
+        "playerAction": "lick your partner's vagina",
         "partnerAction": "hold your head down and play with your hair",
         "points": 7,
         "playerGender": "N/A",
@@ -496,7 +496,7 @@
     },
     {
         "id": 46,
-        "playerAction": "Suck on your partner's clitoris",
+        "playerAction": "suck on your partner's clitoris",
         "partnerAction": "hold your head down and play with your hair",
         "points": 7,
         "playerGender": "N/A",
@@ -507,7 +507,7 @@
     },
     {
         "id": 47,
-        "playerAction": "Tounge fuck your partner's vagina",
+        "playerAction": "tounge fuck your partner's vagina",
         "partnerAction": "hold your head down and play with your hair",
         "points": 7,
         "playerGender": "N/A",
@@ -518,7 +518,7 @@
     },
     {
         "id": 48,
-        "playerAction": "Suck on your partner's back and leave hickeys",
+        "playerAction": "suck on your partner's back and leave hickeys",
         "partnerAction": "none",
         "points": 4,
         "playerGender": "N/A",
@@ -529,7 +529,7 @@
     },
     {
         "id": 49,
-        "playerAction": "Press a microphone vibrator against your partners clitoris",
+        "playerAction": "press a microphone vibrator against your partners clitoris",
         "partnerAction": "stay quiet",
         "points": 6,
         "playerGender": "N/A",
@@ -540,7 +540,7 @@
     },
     {
         "id": 50,
-        "playerAction": "Press a microphone vibrator against your partners penis",
+        "playerAction": "press a microphone vibrator against your partners penis",
         "partnerAction": "stay quiet",
         "points": 6,
         "playerGender": "N/A",
@@ -551,7 +551,7 @@
     },
     {
         "id": 51,
-        "playerAction": "Leave hickeys on your partner's neck",
+        "playerAction": "leave hickeys on your partner's neck",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -562,7 +562,7 @@
     },
     {
         "id": 52,
-        "playerAction": "Gently fuck your partner's vagina in missionary while playing with their boobs",
+        "playerAction": "gently fuck your partner's vagina in missionary while playing with their boobs",
         "partnerAction": "runs their hands and nails across your body",
         "points": 8,
         "playerGender": "Male",
@@ -573,7 +573,7 @@
     },
     {
         "id": 53,
-        "playerAction": "Leave hickeys on your partner's inner thigh",
+        "playerAction": "leave hickeys on your partner's inner thigh",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -584,7 +584,7 @@
     },
     {
         "id": 54,
-        "playerAction": "Grind your vagina against your partner's leg",
+        "playerAction": "grind your vagina against your partner's leg",
         "partnerAction": "grab your hips and help move you",
         "points": 7,
         "playerGender": "Female",
@@ -595,7 +595,7 @@
     },
     {
         "id": 55,
-        "playerAction": "Grind your vagina against your partner's stomach",
+        "playerAction": "grind your vagina against your partner's stomach",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "Female",
@@ -606,7 +606,7 @@
     },
     {
         "id": 56,
-        "playerAction": "Rub your partner's G-spot inside her vagina",
+        "playerAction": "rub your partner's G-spot inside her vagina",
         "partnerAction": "none",
         "points": 7,
         "playerGender": "N/A",
@@ -617,7 +617,7 @@
     },
     {
         "id": 57,
-        "playerAction": "Lick your fingers after fingering your partner's vagina",
+        "playerAction": "lick your fingers after fingering your partner's vagina",
         "partnerAction": "watches",
         "points": 7,
         "playerGender": "N/A",
@@ -628,7 +628,7 @@
     },
     {
         "id": 58,
-        "playerAction": "Preform 69 under your partner",
+        "playerAction": "preform 69 under your partner",
         "partnerAction": "is on the top",
         "points": 7,
         "playerGender": "N/A",
@@ -639,7 +639,7 @@
     },
     {
         "id": 59,
-        "playerAction": "Preform 69 on top of your partner",
+        "playerAction": "preform 69 on top of your partner",
         "partnerAction": "is on the bottom",
         "points": 7,
         "playerGender": "N/A",
@@ -650,7 +650,7 @@
     },
     {
         "id": 60,
-        "playerAction": "Rub your Partner's penis with a stroker",
+        "playerAction": "rub your partner's penis with a stroker",
         "partnerAction": "none",
         "points": 6,
         "playerGender": "N/A",
@@ -661,7 +661,7 @@
     },
     {
         "id": 61,
-        "playerAction": "Spit on your partner",
+        "playerAction": "spit on your partner",
         "partnerAction": "none",
         "points": 5,
         "playerGender": "N/A",
@@ -672,7 +672,7 @@
     },
     {
         "id": 62,
-        "playerAction": "Spit in your partner's mouth",
+        "playerAction": "spit in your partner's mouth",
         "partnerAction": "none",
         "points": 5,
         "playerGender": "N/A",
@@ -1536,6 +1536,281 @@
         "playerGender": "Male",
         "partnerGender": "N/A",
         "category": "Anal",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 141,
+        "playerAction": "press a microphone vibrator to your partner's penis until they cum",
+        "partnerAction": "none",
+        "points": 11,
+        "playerGender": "N/A",
+        "partnerGender": "Male",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 142,
+        "playerAction": "use a stroker toy on your partner's penis until they cum",
+        "partnerAction": "none",
+        "points": 11,
+        "playerGender": "N/A",
+        "partnerGender": "Male",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 143,
+        "playerAction": "press a vibrator to your own penis until you cum",
+        "partnerAction": "none",
+        "points": 9,
+        "playerGender": "Male",
+        "partnerGender": "N/A",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 144,
+        "playerAction": "use a stroker toy on your own penis until you cum",
+        "partnerAction": "none",
+        "points": 9,
+        "playerGender": "Male",
+        "partnerGender": "N/A",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 145,
+        "playerAction": "fuck your partner's boobs until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Male",
+        "partnerGender": "Female",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 146,
+        "playerAction": "fuck your partner's thighs until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Male",
+        "partnerGender": "N/A",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 147,
+        "playerAction": "fuck your partners butt cheaks until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Male",
+        "partnerGender": "N/A",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 148,
+        "playerAction": "fuck your partner's anus with a dildo until they cum",
+        "partnerAction": "none",
+        "points": 15,
+        "playerGender": "N/A",
+        "partnerGender": "N/A",
+        "category": "Anal",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 149,
+        "playerAction": "fuck your partner's anus with a vibrator until they cum",
+        "partnerAction": "none",
+        "points": 15,
+        "playerGender": "N/A",
+        "partnerGender": "N/A",
+        "category": "Anal",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 150,
+        "playerAction": "rub your partner's clit until they cum",
+        "partnerAction": "none",
+        "points": 11,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 151,
+        "playerAction": "rub your own clit until you cum",
+        "partnerAction": "none",
+        "points": 11,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "Solo",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 152,
+        "playerAction": "suck your partner's clit until they cum",
+        "partnerAction": "none",
+        "points": 13,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 153,
+        "playerAction": "vibrate your partner's clit until they cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 154,
+        "playerAction": "finger your partner's g-spot until they cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 155,
+        "playerAction": "vibrate your partner's g-spot until they cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 156,
+        "playerAction": "vibrate your own g-spot until you cum",
+        "partnerAction": "none",
+        "points": 10,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "Solo",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 157,
+        "playerAction": "fuck your partner's vagina until they cum",
+        "partnerAction": "none",
+        "points": 13,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 158,
+        "playerAction": "fuck your own vagina with a dildo until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "Solo",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 159,
+        "playerAction": "fuck your own vagina with a vibrating dildo until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "Solo",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 160,
+        "playerAction": "fuck your partner's vagina with a dildo until they cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 161,
+        "playerAction": "fuck your partner's vagina with a vibrating dildo until they cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "N/A",
+        "partnerGender": "Female",
+        "category": "Toys",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 162,
+        "playerAction": "grind your vagina against a grinding pad until you cum",
+        "partnerAction": "none",
+        "points": 12,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "Solo",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 163,
+        "playerAction": "grind your vagina against your partner's thigh until you cum",
+        "partnerAction": "none",
+        "points": 13,
+        "playerGender": "Female",
+        "partnerGender": "N/A",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 164,
+        "playerAction": "scissor your vagina against your partner's vagina until you cum",
+        "partnerAction": "none",
+        "points": 14,
+        "playerGender": "Female",
+        "partnerGender": "Female",
+        "category": "General",
+        "environment": "Any",
+        "intensity": 4
+    },
+    {
+        "id": 165,
+        "playerAction": "scissor your vagina against your partner's vagina until they cum",
+        "partnerAction": "none",
+        "points": 14,
+        "playerGender": "Female",
+        "partnerGender": "Female",
+        "category": "General",
         "environment": "Any",
         "intensity": 4
     }
